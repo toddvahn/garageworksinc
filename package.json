@@ -1,0 +1,9 @@
+{
+  "name": "GarageWorksNew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ireply2spam/React-Boilerplate.git",
+  "author": "Josh Colbert",
+  "license": "MIT",
+  "private": true
+}
